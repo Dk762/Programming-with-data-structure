@@ -1,7 +1,4 @@
 
-//NAME :    patel Dhaval //
-//ID :      N03632807//
-//SUBJECT : programming with data structure//
 
 
 import java.util.*;
